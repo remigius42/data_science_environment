@@ -1,0 +1,5 @@
+---
+- name: Setup data science environment
+  hosts: all
+  roles:
+    - { role: remigius42.data_science_base }
