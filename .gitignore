@@ -5,3 +5,6 @@
 # Vagrant ignores
 /.vagrant
 /*-console.log
+
+# Ansible ignores
+/roles
