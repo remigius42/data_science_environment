@@ -1,3 +1,7 @@
 # Emacs ignores
 *~
 \#*\#
+
+# Vagrant ignores
+/.vagrant
+/*-console.log
