@@ -8,3 +8,6 @@
 
 # Ansible ignores
 /roles
+
+# Jupyter ignores
+.ipynb_checkpoints
