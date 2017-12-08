@@ -11,3 +11,6 @@
 
 # Jupyter ignores
 .ipynb_checkpoints
+
+# Ignore repositories relying on this data science environment with autonomous version control
+/repos
